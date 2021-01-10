@@ -1,0 +1,25 @@
+.btn {
+    background-color: white;
+}
+
+.books {
+    width: 1000px;
+    margin: auto;
+}
+
+.row__books {
+    padding-top: 133px;
+    margin: auto auto;
+}
+
+.card {
+    background-color: #F3F3F3;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+.col__phone {
+    margin-right: 50px;
+}

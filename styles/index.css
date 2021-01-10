@@ -1,0 +1,38 @@
+body {
+    background: url(../images/back.png);
+    background-size: 100%;
+}
+
+.btn {
+    background-color: white;
+}
+
+.rectangle {
+    width: 588px;
+    height: 308px;
+    background-color: #F3F3F3;
+    margin: 15% auto;
+    align-items: center;
+}
+
+.container__title {
+    padding-top: 45px;
+    padding-left: 45px;
+}
+
+.title {
+    font-size: 64px;
+}
+
+.container__search {
+    width: 425px;
+    height: 40px;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+.col__phone {
+    margin-right: 50px;
+}

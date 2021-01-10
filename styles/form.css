@@ -1,0 +1,29 @@
+.btn {
+    background-color: white;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+.col__phone {
+    margin-right: 50px;
+}
+
+.form__reserv {
+    width: 1000px;
+    margin: auto;
+}
+
+.row__reserv {
+    padding-top: 133px;
+    margin: auto auto;
+}
+
+.card {
+    background-color: #F3F3F3;
+}
+
+.btn__reserv {
+    background-color: #f3f3f3;
+}
